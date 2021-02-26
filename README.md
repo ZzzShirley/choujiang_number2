@@ -4,5 +4,5 @@
 
 # https://numbergenerator.org/randomnumbergenerator/1-10#!numbers=60&low=1&high=60&unique=true&csv=&oddeven=&oddqty=0&sorted=false&addfilters=
 
-![image](http://github.com/ZzzShirley/choujiang_number2_add_pic/raw/master/WeChatScreenshot_20210225222151.jpg)
+![image](http://github.com/ZzzShirley/choujiang_number2_add_pic/raw/master/WeChatScreenshot_20210225222151.png)
 
